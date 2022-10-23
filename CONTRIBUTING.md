@@ -796,3 +796,9 @@
 - Place: Ghaziabad, UttarPradesh, India
 - Bio: Software Developer
 - GitHub: [mridulgoel03](https://github.com/mridulgoel03))
+
+#### Name: [Aditya Kotra](https://github.com/LOCODAK)
+
+- Place: Gurugram, India
+- Bio: Frontend engineer, Table tennis player and Cricket enthuasist.
+- GitHub: [LOCODAK](https://github.com/LOCODAK)
