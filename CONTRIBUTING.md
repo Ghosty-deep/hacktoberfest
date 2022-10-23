@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Mridul Goel](https://github.com/mridulgoel03)
+
+- Place: Ghaziabad, UttarPradesh, India
+- Bio: Software Developer
+- GitHub: [mridulgoel03](https://github.com/mridulgoel03))
